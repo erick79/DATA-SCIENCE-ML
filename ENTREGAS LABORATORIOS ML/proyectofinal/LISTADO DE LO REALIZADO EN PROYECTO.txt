@@ -19,3 +19,5 @@
 	- se grabo el modelo con joblib (modelo_arbol_decision.joblib)
 	- se trato de mejorar en el notebook (modelo_svm_mejorado.ipynb), pero el gridserchcv nunca termino para saber que hiperparametros usar
 	- se realizo el programa que usa el modelo grabado(Proyecto_Arboles_usando_modelo_cargadom.ipynb)
+3)  se realizo el modelo de bayes manual ya con la data procesada de los dos anteriores
+4)  se realizo el modelo regresión logística regularizada manual ya con la data procesada de los dos anteriores
