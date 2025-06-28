@@ -1,0 +1,1 @@
+la regresión logística se usa cuando buscamos dos valores si y no. y se usa para problemas de clasifiacacion.

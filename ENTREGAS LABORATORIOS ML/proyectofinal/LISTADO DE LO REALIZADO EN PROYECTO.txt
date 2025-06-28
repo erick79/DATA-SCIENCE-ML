@@ -1,0 +1,21 @@
+1) se entreno el modelo svm (modelo_svm_guardado.ipynb)
+	- se cargo la data
+	- se analizo la información
+	- se limpio la data quitando columnas no necesarias
+	- se relleno información faltante 
+	- se dividió la data en entrenamiento y prueba den 80% y 20%
+	- se entreno el modelo 
+	- se grabo el modelo con joblib (modelo_svm.joblib)
+	- se trato de mejorar en el notebook (modelo_svm_mejorado.ipynb), pero el gridserchcv nunc termino para saber que hiperparametros usar
+	- se realizo el programa que usa el modelo grabado(usar_modelo_svm.ipynb)
+2) se entreno el modelo arboles de decisión (Proyetcto_Arboles de Decision.ipynb)
+	- se cargo la data
+	- se analizo la información
+	- se limpio la data quitando columnas no necesarias
+	- se relleno información faltante 
+	- se dividió la data en entrenamiento y prueba den 80% y 20%
+	- se entreno el modelo 
+        - se itero para buscar del max_deph que mejor resultados da y luego usar dicho valor(se uso el 7)
+	- se grabo el modelo con joblib (modelo_arbol_decision.joblib)
+	- se trato de mejorar en el notebook (modelo_svm_mejorado.ipynb), pero el gridserchcv nunca termino para saber que hiperparametros usar
+	- se realizo el programa que usa el modelo grabado(Proyecto_Arboles_usando_modelo_cargadom.ipynb)
